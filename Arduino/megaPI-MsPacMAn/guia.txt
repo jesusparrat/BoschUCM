@@ -1,0 +1,36 @@
+chequear mensajes, si mensaje almacenar move
+
+chequear interseccion, si interseccion
+
+
+Orientation {W, E, N, S}
+Move {DOWN, UP, LEFT, RIGHT}
+
+Join Orientation + Move
+
+CASES:
+
+start in W
+
+WDOWN: turn90left - S
+EDOWN: turn90right - S 
+NDOWN: backward - S 
+SDOWN: forward - S
+WUP: turn90right - N
+EUP: turn90left - N
+NUP: forward - N
+SUP: backward - N
+WLEFT: forward - W
+ELEFT: backward - W
+NLEFT: turn90left - W
+SLEFT: turn90right - W
+WRIGHT: backward - E
+ERIGHT: forward - E
+NRIGHT: turn90right - E
+SRIGHT: turn90left - E
+
+haz movimiento X
+
+reportar final
+
+esperar a recibir el ok y seguir lineas
