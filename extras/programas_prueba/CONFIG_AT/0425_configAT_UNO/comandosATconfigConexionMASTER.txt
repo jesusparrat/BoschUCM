@@ -1,0 +1,26 @@
+Comandos AT necesarios para configurar módulo maestro HC-05
+
+AT
+	OK
+AT NAME = <name>
+	+NAME=<name>
+AT+ROLE?
+	+ROLE:0
+AT+ROLE=1
+	OK
+
+////////////////// CONECTAR DE NUEVO EL MÓDULO HC-05 EN MODO AT-2 /////////////////
+AT
+	OK
+AT+ROLE?
+	+ROLE:1
+AT+CMODE?
+	+CMODE:1
+AT+CMODE=0
+	OK
+AT+BIND=<addr from SLAVE> (ex.: 98d3,71,f616b1 IMPORTANTE COMAS POR :, Y MINÚSCULAS)
+	+BIND:98d3:71:f616b1
+
+DESCONECTAR DEL ARDUINO Y SE EMPAREJARÁN CUANDO AMBOS ESTÉN EN MODO DISCOVER
+
+MAKEBLOCK: 70:3E:97:07:6F:10

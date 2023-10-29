@@ -1,0 +1,1 @@
+Carpeta en la cual se encuentran todos los archivos necesarios para resetear de fábrica el robot. Es el mismo programa que usa comunicación Bluetooth y en el cuál nos podemos basar para la comunición final, pero de momento está en pruebas. 

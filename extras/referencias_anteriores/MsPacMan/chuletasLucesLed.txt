@@ -1,0 +1,5 @@
+Rojo: sin conectar
+Verde: en recta
+Magenta: detección de curva
+Azul: en curva
+Amarillo: salida de curva

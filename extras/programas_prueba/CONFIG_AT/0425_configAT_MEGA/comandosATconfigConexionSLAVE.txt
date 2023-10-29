@@ -1,0 +1,15 @@
+Comandos AT necesarios para configurar módulo esclavo HC-05
+
+AT
+	OK
+AT NAME = <name>
+	+NAME=<name>
+AT+ROLE?
+	+ROLE:0
+AT+CMODE?
+	+CMODE:1
+AT+ADDR?
+	+ADDR:98D3:71:F616B1
+
+
+DESCONECTAR DEL ARDUINO Y SE EMPAREJARÁN CUANDO AMBOS ESTÉN EN MODO DISCOVER
