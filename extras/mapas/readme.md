@@ -1,0 +1,1 @@
+Estos son los mapas que he ido generando y probando y probando para el proyecto. El utilizado al final del proyecto está en la carpeta A-2. Que alguien se encargue, de verdad, de imprimir el mapa en alguna superficie estable y que no sea en papel de un gramaje menor de al menos 150g/m2. Que se encarguen de tener el mapa listo cuanto antes. 
