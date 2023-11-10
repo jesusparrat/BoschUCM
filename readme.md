@@ -10,4 +10,4 @@ ServidorArduino.ino
 #### Carpeta ia-McPacMan-java - recoge todos los archivos necesarios para la simulación con IA en java del MsPacMan vs Ghosts
 
 ## Vídeo Final: 
-[![Alt text for your video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/1t4GCoLIPjv6Re8mBFZ0xmiJ7zZ3VfwLl/view?usp=sharing)
+[![](https://gaia.fdi.ucm.es/research/mspacman/img/logo.png)](https://drive.google.com/file/d/1t4GCoLIPjv6Re8mBFZ0xmiJ7zZ3VfwLl/view?usp=sharing)
